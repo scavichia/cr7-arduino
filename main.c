@@ -2,7 +2,7 @@
 #include <AFMotor.h> 
 
 int speedFORWARD = 255; // Maximum speed for forward movement
-int speedTURN = 255; // Speed used for turning (can be customized separately)
+int speedTURN = 255; // Speed used for turning
 
 SoftwareSerial BT(14,15); 
 
