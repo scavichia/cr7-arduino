@@ -1,2 +1,2 @@
 # cr7-arduino
-Project developed in C for a soccer-playing robot.
+An Arduino-based soccer robot developed for an introductory robotics course and awarded first place in a university competition.
